@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="4px" viewBox="0 0 8 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Triangle</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Consumer-Home-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3.0-iPhone-8---375x667" transform="translate(-280.000000, -2010.000000)" fill="#000032">
+            <g id="footer" transform="translate(0.000000, 1872.000000)">
+                <g id="Country" transform="translate(24.000000, 112.000000)">
+                    <g id="Select-box" transform="translate(78.000000, 0.000000)">
+                        <polygon id="Triangle" transform="translate(182.000000, 28.000000) scale(1, -1) translate(-182.000000, -28.000000) " points="182 26 186 30 178 30"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
