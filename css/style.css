@@ -22,8 +22,11 @@ a {
 }
 
 .header-top .navbar-header a.navbar-brand img {
-    margin: -10px 0 0 0;
+
+    margin: -6px 0px 0px 0px;
     width: 200px;
+    height: 70px;
+    object-fit: contain;
 }
 
 .header-top nav.navbar.navbar-defult div#myNavbar ul.nav.navbar-nav.navbar2 li a,

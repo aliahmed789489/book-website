@@ -295,8 +295,9 @@
         width: 70%;
     }
     .header-top .navbar-header a.navbar-brand img {
-        margin: -17px 0 0 0;
-        width: 60%;
+        margin: -22px 0 0 0;
+        width: 50%;
+      
     }
     .banner .banner-inner {
         display: block;
@@ -400,7 +401,13 @@
     }
     section.sec_sell_ybw .sell_ybw_inner .sell_ybw_box img {
         margin: 10px auto;
-        display: table;
+        display: flex ;
+        justify-content: center;
+        align-items: center;
+    }
+    section.sec_sell_ybw .sell_ybw_inner .sell_ybw_box {
+        display: flex;
+        flex-direction: column;
     }
     section.sec_portfolio .portfolio_inner .slick-slide img {
         width: auto;
@@ -412,7 +419,7 @@
     section.sec_sell_ybw .sell_ybw_inner .sell_ybw_box img {
         margin: 20px auto 0;
         display: inline-block;
-        width: 15%;
+        width: 50%;
         padding: 0;
     }
     section.sec_sell_ybw h2.heading {
@@ -676,11 +683,57 @@
 }
 
 @media screen and (max-width: 650px) {
+  
     .og-fullimg {
         display: none;
     }
     .og-details {
         float: none;
         width: 100%;
+    }
+    .popup_cbw_wrapper {
+        width: 100%;
+      
+        
+    }
+    .new_cwb_form input.form-control {
+        height: 28px;
+        
+    }
+    .head_popup a.close-btn{
+        font-size: 18px;
+    }
+    .circle_discount {
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+        position: absolute;
+        top: 10px;
+        right: 0px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .timers{
+        font-size: 28px;
+    }
+    
+    .new_cwb_form .new_cbw_submit {
+        
+        width: 100%;
+        font-size: 12px;
+        font-weight: bold;
+        padding: 11px 0;
+        text-shadow: 0 1px white;
+    }
+    .circle_discount h4{
+        font-size: 16px;
+    }
+    .how-to .how-to-inner .how-to-inner-r {
+        padding-left: 0px ;
+    }
+    .row{
+        margin-left: 0px;
+        margin-right: 0px;
     }
 }
